@@ -1,0 +1,11 @@
+[package]
+org = "dilhashanazeer"
+name = "myproj1"
+version = "0.1.0"
+distribution = "2201.3.2-rc1"
+
+[build-options]
+observabilityIncluded = true
+
+[[platform.java11.dependency]]
+path="/Users/dilhashanazeer/GitRepos/core-java/mytest/target/mytest-1.0.0.jar"
