@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <book id="bk101">
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <genre>Fiction</genre>
+        <price>10.99</price>
+        <publish_date>1925-04-10</publish_date>
+        <description>
+            A novel set in the Roaring Twenties, narrating the life and times of Jay Gatsby and his unrequited love for Daisy Buchanan.
+        </description>
+    </book>
+
+    <book id="bk102">
+        <title>1984</title>
+        <author>George Orwell</author>
+        <genre>Dystopian</genre>
+        <price>8.99</price>
+        <publish_date>1949-06-08</publish_date>
+        <description>
+            A dystopian social science fiction novel and cautionary tale about the dangers of totalitarianism and surveillance.
+        </description>
+    </book>
+
+    <book id="bk103">
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <genre>Fiction</genre>
+        <price>12.99</price>
+        <publish_date>1960-07-11</publish_date>
+        <description>
+            A novel of warmth and humor, despite dealing with serious issues like racial inequality and moral growth in a small Southern town.
+        </description>
+    </book>
+
+    <book id="bk104">
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+        <genre>Fiction</genre>
+        <price>11.99</price>
+        <publish_date>1951-07-16</publish_date>
+        <description>
+            The narrative of a teenage boy, Holden Caulfield, and his experiences in New York City after being expelled from prep school.
+        </description>
+    </book>
+
+    <book id="bk105">
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <genre>Fantasy</genre>
+        <price>9.99</price>
+        <publish_date>1937-09-21</publish_date>
+        <description>
+            The prelude to The Lord of the Rings, detailing the adventure of Bilbo Baggins and his journey to recover lost treasure from the dragon Smaug.
+        </description>
+    </book>
+</catalog>
